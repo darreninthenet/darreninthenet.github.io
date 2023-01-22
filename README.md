@@ -29,9 +29,9 @@ Keen to further develop technical skills in an Agile project role.
 </colgroup>
 <thead>
 <tr class="header">
-<th><ul>
+<td><ul>
 <p>Agile methodologies</p>
-</ul></th>
+</ul></td>
 <th><ul>
 <p>PRINCE2 / MSP project management</p>
 </ul></th>
