@@ -2,7 +2,7 @@
 
 # Agile Technical Project Manager
 ---
-### London & Kent
+### London and Kent
 
 ### E-Mail: cv at darrenhubbard dot com
 ---
