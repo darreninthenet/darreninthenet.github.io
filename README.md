@@ -52,7 +52,7 @@ Keen to further develop technical skills in an Agile project role.
 <p>Supplier management</p>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><ul>
 <p>Risk management</p>
 </ul></td>
