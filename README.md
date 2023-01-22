@@ -39,7 +39,6 @@ Keen to further develop technical skills in an Agile project role.
 <p>Technical expertise</p>
 </ul></th>
 
-<tr class="odd">
 <td><ul>
 <p>Coaching and mentoring</p>
 </ul></td>
@@ -49,8 +48,7 @@ Keen to further develop technical skills in an Agile project role.
 <td><ul>
 <p>Supplier management</p>
 </ul></td>
-</tr>
-<tr class="even">
+
 <td><ul>
 <p>Risk management</p>
 </ul></td>
@@ -60,7 +58,7 @@ Keen to further develop technical skills in an Agile project role.
 <td><ul>
 <p>Business improvement</p>
 </ul></td>
-</tr>
+
 </tbody>
 </table>
 
