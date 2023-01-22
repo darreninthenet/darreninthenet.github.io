@@ -1,10 +1,13 @@
-**Darren Hubbard**
+# Darren Hubbard
 
-**Agile Technical Project Manager**
+# Agile Technical Project Manager
+--
+### London and Kent
 
-London and Kent
+### E-Mail: cv at darrenhubbard dot com
+--
 
-**Professional Profile**
+## Professional Profile
 
 An accomplished Agile Coach, Scrum Master and Senior Technical Project
 Manager, who achieves results by focusing firmly on value and delivery.
@@ -16,7 +19,7 @@ together colleagues, suppliers and outsourced resources to deliver
 projects within time and cost constraints, frequently against the odds.
 Keen to further develop technical skills in an Agile project role.
 
-**Key Skills**
+## Key Skills
 
 <table>
 <colgroup>
@@ -24,48 +27,46 @@ Keen to further develop technical skills in an Agile project role.
 <col style="width: 40%" />
 <col style="width: 29%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th><ul>
-<li><p>Agile methodologies</p></li>
+<tbody>
+<tr class="even">
+<td><ul>
+<p>Agile methodologies</p>
 </ul></th>
-<th><ul>
-<li><p>PRINCE2 / MSP project management</p></li>
+<td><ul>
+<p>PRINCE2 / MSP project management</p>
 </ul></th>
-<th><ul>
-<li><p>Technical expertise</p></li>
+<td><ul>
+<p>Technical expertise</p>
 </ul></th>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Coaching and mentoring</p></li>
+<p>Coaching and mentoring</p>
 </ul></td>
 <td><ul>
-<li><p>Leadership and staff management</p></li>
+<p>Leadership and staff management</p>
 </ul></td>
 <td><ul>
-<li><p>Supplier management</p></li>
+<p>Supplier management</p>
 </ul></td>
 </tr>
 <tr class="even">
 <td><ul>
-<li><p>Risk management</p></li>
+<p>Risk management</p>
 </ul></td>
 <td><ul>
-<li><p>Stakeholder management</p></li>
+<p>Stakeholder management</p>
 </ul></td>
 <td><ul>
-<li><p>Business improvement</p></li>
+<p>Business improvement</p>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-**Professional Experience**
+## Professional Experience
 
-**Agile Coach Sep 2020 - date**
+### Agile Coach Sep 2020 - date
 
 **Direct Line Group**
 
@@ -95,7 +96,7 @@ Keen to further develop technical skills in an Agile project role.
 -   Trained 12 people to facilitate large-scale, tribe-level quarterly
     retros
 
-**Senior Project Manager May 2011 – Aug 2020**
+### Senior Project Manager May 2011 – Aug 2020
 
 **Direct Line Group**
 
@@ -134,7 +135,7 @@ Keen to further develop technical skills in an Agile project role.
 -   Saved £600 per day by agreeing a simplified approach to penetration
     testing, eliminating the need for external testers
 
-**PCI DSS Compliance Manager (secondment) Jun 2016 – Mar 2017**
+### PCI DSS Compliance Manager (secondment) Jun 2016 – Mar 2017
 
 **Direct Line Group**
 
@@ -147,7 +148,7 @@ Keen to further develop technical skills in an Agile project role.
 -   Enabled the team to achieve on-going accreditation, with no
     compensating controls required
 
-**Senior Project Manager Sep 2005 – Dec 2010**
+### Senior Project Manager Sep 2005 – Dec 2010
 
 **RBS Plc**
 
@@ -155,7 +156,7 @@ Keen to further develop technical skills in an Agile project role.
     Derivatives trading area into RBS, successfully migrating and
     integrating €2billion of trades
 
-**Early Career Summary**
+### Early Career Summary
 
 **RBS Plc:** Project Manager and Interim Programme Manager **2005 –
 2008**
@@ -173,9 +174,9 @@ London* **2001**
 
 **MEng (Hons) degree:** Computing, *Imperial College London* **2000**
 
-**Professional Development**
+### Professional Development
 
-**Certification:** Professional Kanban 1 **2022**
+**Certification:** Professional Kanban 1 (PK1) **2022**
 
 **Certification:** Professional Scrum Master (PSM1) **2022**
 
@@ -214,17 +215,16 @@ NG) **2003**
 
 -   General infrastructure and technical mindset
 
-**Further Details**
+### Further Details
 
-**Voluntary positions:** Former Justice of the Peace (Magistrate) for
-North Kent Bench, 2011 – 2022
+**Voluntary positions:**
 
-Volunteer at Wye Community Farm
+- Former Justice of the Peace (Magistrate) for North Kent Bench, 2011 – 2022
+- Volunteer at Wye Community Farm
+- Training Officer for local target shooting club
+- Coastal Guardian for the Kent Coast
 
-Training Officer for local target shooting club
+**Interests:**
 
-Coastal Guardian for the Kent Coast
-
-**Interests:** New technology (cloud platform engineering, AWS, Python)
-
-Self-improvement and management techniques
+- Technology and Development (cloud platform engineering, AWS, Python)
+- Self-improvement and management techniques
