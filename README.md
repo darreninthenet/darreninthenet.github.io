@@ -28,16 +28,16 @@ Keen to further develop technical skills in an Agile project role.
 <col style="width: 29%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr class="even">
 <td><ul>
 <p>Agile methodologies</p>
 </ul></td>
-<th><ul>
+<td><ul>
 <p>PRINCE2 / MSP project management</p>
-</ul></th>
-<th><ul>
+</ul></td>
+<td><ul>
 <p>Technical expertise</p>
-</ul></th>
+</ul></td>
 </tr>
 </thead>
 <tbody>
