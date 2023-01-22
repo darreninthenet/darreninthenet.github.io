@@ -19,7 +19,9 @@ together colleagues, suppliers and outsourced resources to deliver
 projects within time and cost constraints, frequently against the odds.
 Keen to further develop technical skills in an Agile project role.
 
+
 ## Key Skills
+
 
 <table>
 <colgroup>
