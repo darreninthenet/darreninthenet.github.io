@@ -70,7 +70,7 @@ Keen to further develop technical skills in an Agile project role.
 
 ## Professional Experience
 
-### Agile Coach Sep 2020 - date
+### Agile Coach Sep 2020 - Dec 2022
 
 **Direct Line Group**
 
@@ -100,7 +100,7 @@ Keen to further develop technical skills in an Agile project role.
 -   Trained 12 people to facilitate large-scale, tribe-level quarterly
     retros
 
-### Senior Project Manager May 2011 – Aug 2020
+### Senior Project Manager May 2011 – Dec 2022
 
 **Direct Line Group**
 
