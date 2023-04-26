@@ -3,3 +3,7 @@ description: last updated 2023-04-17
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+webrick:
+  headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
+    
