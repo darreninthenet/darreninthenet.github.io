@@ -12,51 +12,11 @@ An accomplished Senior Project Manager, Technical Project Manager, and Scrum Mas
 
 
 ## Key Skills
+> Agile methodologies        PRINCE2 / MSP project management        Technical expertise 
+> Coaching and mentoring     Leadership and staff management         Supplier Management 
+> Risk Management            Stakeholder Management                  Business improvement
 
-<table>
-<colgroup>
-<col style=“width: 29%” />
-<col style=“width: 40%” />
-<col style=“width: 29%” />
-</colgroup>
-<thead>
-<tr class=“even”>
-<td><ul>
-<p>Agile methodologies</p>
-</ul></td>
-<td><ul>
-<p>PRINCE2 / MSP project management</p>
-</ul></td>
-<td><ul>
-<p>Technical expertise</p>
-</ul></td>
-</tr>
-</thead>
-<tbody>
-<tr class=“odd”>
-<td><ul>
-<p>Coaching and mentoring</p>
-</ul></td>
-<td><ul>
-<p>Leadership and staff management</p>
-</ul></td>
-<td><ul>
-<p>Supplier management</p>
-</ul></td>
-</tr>
-<tr class=“odd”>
-<td><ul>
-<p>Risk management</p>
-</ul></td>
-<td><ul>
-<p>Stakeholder management</p>
-</ul></td>
-<td><ul>
-<p>Business improvement</p>
-</ul></td>
-</tr>
-</tbody>
-</table>
+- - - -
 
 ## Professional Experience
 
@@ -117,6 +77,8 @@ An accomplished Senior Project Manager, Technical Project Manager, and Scrum Mas
 
 **MEng (Hons) degree:** Computing, *Imperial College London* **2000**
 
+- - - -
+
 ### Professional Development
 
 **Certification:** Professional Kanban 1 (PK1) **2022**
@@ -152,6 +114,8 @@ An accomplished Senior Project Manager, Technical Project Manager, and Scrum Mas
 * Stakeholder management (including C-Suite), budget management, supplier management (including offshore), risk management, project and delivery management, portfolio management, waterfall and agile methodologies, Scrum Master, Kanban, servant leadership, project plans, change management, Microsoft Project, Jira, software delivery, SDLC, infrastructure delivery, information security, regulatory projects, matrix management, people management, mentoring, coaching, operational readiness
 * Networking (Cisco), Firewalls (Checkpoint), VPN, Security platforms (deliveries in CyberArk, LogRhythm SIEM, Anomali TIP, ForeScout NAC)
 * General infrastructure and technical mindset
+
+- - - -
 
 ### Further Details
 
