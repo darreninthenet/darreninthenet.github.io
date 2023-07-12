@@ -1,11 +1,14 @@
 # Darren Hubbard
 
 # Senior Project Manager
-> ### with Technical, Agile and Information Security Skills
+### with Technical, Agile and Information Security Skills
+
 - - - -
+
 ### London & Kent
 
 ### E-Mail: cv at darrenhubbard dot com
+
 - - - -
 
 ## Professional Profile
