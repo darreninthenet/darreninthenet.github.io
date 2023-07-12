@@ -12,9 +12,15 @@ An accomplished Senior Project Manager, Technical Project Manager, and Scrum Mas
 
 
 ## Key Skills
-> Agile methodologies        PRINCE2 / MSP project management        Technical expertise 
-> Coaching and mentoring     Leadership and staff management         Supplier Management 
-> Risk Management            Stakeholder Management                  Business improvement
+* Agile and waterfall methodologies
+* PRINCE2 / MSP project management and delivery
+* Technical expertise 
+* Coaching and mentoring
+* Leadership and staff management 
+* Supplier Management 
+* Risk Management
+* Stakeholder Management
+* Business improvement
 
 - - - -
 
