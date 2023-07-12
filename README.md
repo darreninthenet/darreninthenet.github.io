@@ -1,5 +1,3 @@
-# Darren Hubbard
-
 # Senior Project Manager
 ### with Technical, Agile and Information Security Skills
 - - - -
